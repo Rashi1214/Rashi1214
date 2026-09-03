@@ -222,7 +222,7 @@ Final-year academic project built during the BCA program, shared on GitHub.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rashi1214&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B497F5&icon_color=9370DB&text_color=E0E0E0"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi1214&theme=radical&hide_border=true&background=0D1117&ring=B497F5&fire=9370DB&currStreakLabel=E0E0E0"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Rashi1214&theme=radical&hide_border=true&background=0D1117&ring=B497F5&fire=9370DB&currStreakLabel=E0E0E0"/>
 
 <br/>
 
@@ -236,7 +236,7 @@ Final-year academic project built during the BCA program, shared on GitHub.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rashi1214&theme=radical&no-frame=true&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rashi1214&theme=radical&no-frame=true&column=7&margin-w=8&row=1"/>
 
 </div>
 
