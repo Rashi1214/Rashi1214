@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rashi%20Chaurasia&fontSize=48&fontColor=D6B4FC&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20%26%20AI%2FML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rashi%20Chaurasia&fontSize=48&fontColor=D6B4FC&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20and%20AI%2FML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=B497F5&center=true&vCenter=true&width=650&lines=MCA+Student+%40+GLA+University;Web+Development+Intern+%40+Prodigy+InfoTech;Exploring+AI+%2F+ML+%26+Bias+Detection+in+Models;Building+one+project+at+a+time+%E2%9C%A8" alt="Typing SVG" />
@@ -227,26 +227,6 @@ Final-year academic project built during the BCA program, shared on GitHub.
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi1214&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B497F5&text_color=E0E0E0"/>
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rashi1214&theme=radical&no-frame=true&column=7&margin-w=8&row=1"/>
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi1214&theme=redical&bg_color=0D1117&color=B497F5&line=9370DB&point=E0E0E0&hide_border=true"/>
 
 </div>
 
